@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编程题：两个int(32位)整数m和n的二进制表达中，有多少个位不同(题目名：求二进制中不同位的个数)", "编程题：两个int(32位)整数m和n的二进制表达中，有多少个位不同(题目名：求二进制中不同位的个数)\编程题：两个int(32位)整数m和n的二进制表达中，有多少个位不同(题目名：求二进制中不同位的个数).vcxproj", "{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Debug|x64.ActiveCfg = Debug|x64
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Debug|x64.Build.0 = Debug|x64
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Debug|x86.Build.0 = Debug|Win32
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Release|x64.ActiveCfg = Release|x64
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Release|x64.Build.0 = Release|x64
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Release|x86.ActiveCfg = Release|Win32
+		{4E9F6882-1B93-4EDE-95CA-9997B0F59CFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F11388-61E5-4128-8933-DCEF4EA79E69}
+	EndGlobalSection
+EndGlobal
